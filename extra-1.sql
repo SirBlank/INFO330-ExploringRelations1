@@ -1,0 +1,1 @@
+-- (extra-1.sql) Is the female doctor from West Palm Beach, Florida the same age as the male reverend from Phoenix, Arizona?
